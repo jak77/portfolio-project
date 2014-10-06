@@ -3,6 +3,7 @@ a {
 	text-decoration: none;
 }
 
+/* GENERAL */
 #wrapper {
 	max-width: 940px;
 	margin: 0 auto;
@@ -10,14 +11,17 @@ a {
 	
 }
 
+/* heading */
 #logo {
 	text-align: center;
 	margin: 0;
 }
+
 a{
 	color:#6ab47b;
 }
 
+/* green header*/
 header {
 	background: #6ab47b;
 	border-color: #599a69;
@@ -27,6 +31,7 @@ h1, h2 {
 	color: #fff;
 }
 
+/* nav background*/
 nav {
 	background:#599a68;
 }
@@ -39,6 +44,12 @@ nav a.selected, nav a:hover {
 	color: #32673f;
 }
 
+
+/* COLORS */
+
+
+
+/*  site body  */
 body {
 	background-color: #fff;
 	color: #999;
